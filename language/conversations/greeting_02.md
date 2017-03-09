@@ -1,13 +1,13 @@
 ---
-title: greeting_01
-timestamp: 2017-03-09T16:18:54.134067092+05:30
+title: greeting_02
+timestamp: 2017-03-09T16:31:19.376714791+05:30
 ---
 
-Hi
+Hello
 * greeting
 
 < Hello world, I mean Human
-* welcome
+* greeting
 
 Goodbye
 * goodbye
